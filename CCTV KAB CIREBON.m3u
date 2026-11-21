@@ -1,13 +1,13 @@
 #EXTM3U
 
 #EXTINF:-1 group-title="CCTV Kabupaten Cirebon",PABUARAN
-https://cctv-backend.cirebonkab.go.id:6969/memfs/26d5ad8b-8f22-4002-b31f-387e1cd2cbee_output_0.m3u8?session=QHQCG2qfvkYbhS7bemRYc6
+https://cctv-backend.cirebonkab.go.id:6970/memfs/26d5ad8b-8f22-4002-b31f-387e1cd2cbee_output_0.m3u8?session=XxbDjxVMqfn7pDLAZ9qC4V
 
 #EXTINF:-1 group-title="CCTV Kabupaten Cirebon",SINDANGLAUT
-https://cctv-backend.cirebonkab.go.id:6969/memfs/55cfddc7-66d0-4731-a5f2-359594fee9ca_output_0.m3u8?session=bYUK6k3GRedoRhPFqkqMkm
+https://cctv-backend.cirebonkab.go.id:6970/memfs/55cfddc7-66d0-4731-a5f2-359594fee9ca_output_0.m3u8?session=9UQRH3zbMvpgQw5JxXCtoi
 
 #EXTINF:-1 group-title="CCTV Kabupaten Cirebon",PASAR GEBANG
-https://cctv-backend.cirebonkab.go.id:6969/memfs/1f5811df-8482-4a55-b00e-f4010c78bbee_output_0.m3u8?session=UgkaLt57QaddrxUBo68s5X
+https://cctv-backend.cirebonkab.go.id:6970/memfs/1f5811df-8482-4a55-b00e-f4010c78bbee.m3u8
 
 #EXTINF:-1 group-title="CCTV Kabupaten Cirebon",LOSARI 1
 https://cctv-backend.cirebonkab.go.id:6969/memfs/a87b98b8-be04-4415-a0ad-8d5d582c17e4_output_0.m3u8?session=5ozZzsjpMZA89Jmw8yFwbu
